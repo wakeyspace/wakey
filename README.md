@@ -1,4 +1,4 @@
-# Wakey NFT 
+# Wakey 
 wakey contract 
 
 #Depend:
