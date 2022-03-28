@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-CC0-blue.svg)](https://github.com/sparklinlabs/superpowers-asset-packs/blob/master/LICENSE.txt)
+
 # Wakey 
 wakey contract 
 
