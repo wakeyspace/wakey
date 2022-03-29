@@ -23,11 +23,11 @@ Wakey-Wakey is stored as an ERC-721A token on the Ethereum blockchain. Updated m
 
 The contract combines the Azuki contract open source technology, and the gas fee is reduced on the chain.
 
-## Road map
-* Q1  NFT Design | Website Design |  Community Promotion | Website Launch
-* Q2  Collab | NFT Mint | NFT Reveral
-* Q3  Lottery | Peripheral Products | Community Operations
-* Q4  Social Functionality And Development | WakeyDAO Established | Community Voting
+## Road map of 2022
+* Q1 - Website design, and launch; - Launch of the official social media Twitter account /dc community; - Release of 3333 Wakey-Wakey series NFT avatars, selection of members and contributors who have artistic dreams and have been with the community for a long time to have our membership.
+* Q2 - Public sale of Wakey-Wakey, and display of NFT; - Holders will have priority access to various benefits. - We will gather more artists to release a second joint creation of NFT works.
+* Q3 - Cooperate with various trendy brands to jointly develop goods with Wakey-Wakey element images by IP licensing and other means. Giving commercial value to the artwork, holders can enjoy a share of the merchandise sold, have member discounts, physical airdrops, including and not limited to various types of trendy games/trendy clothes and technology products. - Community members are rewarded with points through different levels of community contributions, which can be redeemed for tide games and other peripheral items as well as the Wakey-Wakey sub-series to be released in the future. - Regular lotteries and dividends for NFT holders.
+* Q4 - DAO community transformation, on the basis of the completed community points mechanism, to the community members to share, build, co-create the direction of transformation.
 
 ## Team
 * Arych (Community) [![Twitter](https://img.shields.io/twitter/follow/arych_kun.svg?style=social)](https://twitter.com/arych_kun)
