@@ -32,7 +32,7 @@ The contract combines the Azuki contract open source technology, and the gas fee
 ## Team
 * Arych (Community) [![Twitter](https://img.shields.io/twitter/follow/arych_kun.svg?style=social)](https://twitter.com/arych_kun)
 * Yu (Art)[![Twitter](https://img.shields.io/twitter/follow/EeeRoxanne.svg?style=social)](https://twitter.com/EeeRoxanne)
-* wwly (Developer) [![Twitter](https://img.shields.io/twitter/follow/wwly_holder.svg?style=social)](https://twitter.com/wwly_holder)
+* wwly (Developer) [![Twitter](https://img.shields.io/twitter/follow/lbiker_holder.svg?style=social)](https://twitter.com/lbiker_holder)
 * squirrel(Developer) [![Twitter](https://img.shields.io/twitter/follow/lakesquirrel.svg?style=social)](https://twitter.com/lakesquirrel)
 
 ## Preview
