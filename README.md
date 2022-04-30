@@ -25,23 +25,23 @@ The contract combines the Azuki contract open source technology, and the gas fee
 
 ## Road map of 2022
 * Q1
-- Website design, and launch :white_check_mark:
-- Launch of the official Twitter / Discord community :white_check_mark:
-- Selection of members and contributors who have artistic dreams and have been with the community for a long time to have our membership.
+  - Website design, and launch :white_check_mark:
+  - Launch of the official Twitter / Discord community :white_check_mark:
+  - Selection of members and contributors who have artistic dreams and have been with the community for a long time to have our membership.
 * Q2 
-- Release of 3333 Wakey-Wakey series NFT avatars
-- Public-sale of Wakey-Wakey, and display of NFT;
-- Community members are rewarded with points through different levels of community contributions, which can be redeemed for tide games and other peripheral items as well as the Wakey-Wakey sub-series to be released in the future.
+  - Release of 3333 Wakey-Wakey series NFT avatars
+  - Public-sale of Wakey-Wakey, and display of NFT;
+  - Community members are rewarded with points through different levels of community contributions, which can be redeemed for tide games and other peripheral items as well as the Wakey-Wakey sub-series to be released in the future.
 * Q3 
-- DAO community transformation, on the basis of the completed community points mechanism, to the community members to share, build, co-create the direction of transformation.
-- Holders will have priority access to various benefits.
-- We will gather more artists to release a second joint creation of NFT works.
-- holding online and offline art creation exhibitions.
-- $Wakey ecosystem online
+  - DAO community transformation, on the basis of the completed community points mechanism, to the community members to share, build, co-create the direction of transformation.
+  - Holders will have priority access to various benefits.
+  - We will gather more artists to release a second joint creation of NFT works.
+  - holding online and offline art creation exhibitions.
+  - $Wakey ecosystem online
 * Q4
-- Cooperate with various trendy brands to jointly develop goods with Wakey-Wakey element images by IP licensing and other means.
-- Giving commercial value to the artwork, holders can enjoy a share of the merchandise sold, have member discounts, physical airdrops, including and not limited to various types of trendy games/trendy clothes and technology products.
-- Regular lotteries and dividends for NFT holders
+  - Cooperate with various trendy brands to jointly develop goods with Wakey-Wakey element images by IP licensing and other means.
+  - Giving commercial value to the artwork, holders can enjoy a share of the merchandise sold, have member discounts, physical airdrops, including and not limited to various types of trendy games/trendy clothes and technology products.
+  - Regular lotteries and dividends for NFT holders
 
 ## Team
 * Arych (Community) [![Twitter](https://img.shields.io/twitter/follow/arych_kun.svg?style=social)](https://twitter.com/arych_kun)
