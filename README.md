@@ -23,6 +23,23 @@ Wakey-Wakey is stored as an ERC-721A token on the Ethereum blockchain. Updated m
 
 The contract combines the Azuki contract open source technology, and the gas fee is reduced on the chain.
 
+## Phase 
+* Phase 1 COMMUNITY
+  - Convey Wakey-Wakey's spirit of "VIGOR/UPWARD/ENTHUSIASM", meet people with VIGOR in different fields and create our own value in Wakey‘s "summer garden".
+
+* Phase 2 WAKEY POOL
+  - The release of 3333 Wakey-Wakey series NFT characters, 5% of the primary mint and 20% of the secondary market royalty will go into the Wakey-pool. Wakey-Wakey NFT owners can participate in the management and voting of the fund, as well as participate in community activities to earn points. And we use these points in exchange for paid jobs in the community, which will also ensure the long-term stability of the program, and with these funds, we can develop all kinds of dynamic causes around refuse to lie down.
+
+* Phase 3 WAKEY DAO
+  - On the basis of wakey-pool proposal and points, Wakey-Wakey is committed to developing into a DAO organization co-built and shared by the community. All rights and interests will start from $WAKEY, and holding Wakey-NFT is necessary. $WAKEY serves the spirit of "refusing to lie down", flies against the wind for more young people to pursue their dreams, basks in the glory of their dreams, and always expands themselves and the world outside with a positive and optimistic attitude.
+
+* Phase 4 THE GARDEN PARTY
+  - We will pass on our spirit and find suitable artists to upgrade our NFT. Everyone who holds a Wakey-Wakey will receive a summer Garden NFT airdrop to participate in a Summer orgy! We will hold this party both offline and online. It will be a new start for Wakey-Wakey!
+
+* Phase 5 WAKEYVERSE
+  - More fun parties and gardens to build our dream home after we refuse to lie down -- we named it "WAKEY LAND".
+At the same time, we will cooperate with dynamic and trendy brands that share the same concept with Wakey-Wakey. Through IP authorization and other ways, we will jointly develop products with the image of Wakey-Wakey elements. All products can be sold at $WAKEY parity.
+
 ## Road map of 2022
 * Q1
   - Website design, and launch :white_check_mark:
